@@ -1,0 +1,6 @@
+{
+  "name": "Always With Student",
+  "description": "All-in-One Student Companion app for study planning, notes, GPA/CGPA calculations, reminders, daily activities, memories and document management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
